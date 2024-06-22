@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 Command to create the project:
-npx create-react-app typescript-react-redux --template typescript
+
+### `npx create-react-app typescript-react-redux --template typescript`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
