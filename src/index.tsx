@@ -1,4 +1,5 @@
 import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import Parent from './props/Parent';
 
 const App = () => {
