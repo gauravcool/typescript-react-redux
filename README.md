@@ -1,3 +1,10 @@
+# Course Details
+
+Typescript: The Complete Developer's Guide
+=====================
+
+https://www.udemy.com/course/typescript-the-complete-developers-guide
+
 # Getting Started with Create React App
 
 Command to create the project:
